@@ -7,7 +7,7 @@
 ### I am a front-end engineer.
 
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/24921dbc08d9c7c9c7c80aec25f862d7/ac189d1068fe4776-2d/s400x600/a5cb9316cda65644bf311b750fa4da0c527e2bf8.gifv" width="600"/>
+  <img src="https://64.media.tumblr.com/24921dbc08d9c7c9c7c80aec25f862d7/ac189d1068fe4776-2d/s400x600/a5cb9316cda65644bf311b750fa4da0c527e2bf8.gif" width="600"/>
 </div>
 
 ## :computer: About me:

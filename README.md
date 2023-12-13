@@ -4,10 +4,10 @@
 
 ## Hi, my name is Alina (nick Maks) :wave:
 
-### I am a front-end developer in Vue(2,3)/Nuxt(2,3).
+### I am a front-end engineer.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jM4NGpvx6jZmW93hcZ/giphy.gif" width="600"/>
+  <img src="https://64.media.tumblr.com/24921dbc08d9c7c9c7c80aec25f862d7/ac189d1068fe4776-2d/s400x600/a5cb9316cda65644bf311b750fa4da0c527e2bf8.gifv" width="600"/>
 </div>
 
 ## :computer: About me:
@@ -22,6 +22,7 @@
 - I like it when the site lives. I love animations and go deep into them. I look towards Three.js.
 - I had to create desktop applications on Electron and Vue (in conjunction).
 - Worked with blockchain. With the help of Web3.js, Ethers.js and Metamask, I created authorization in desktop applications and a link with the blockchain on websites.
+- I develop parsers, bots and utilities for automating processes in Python.
 
 ### Soft skills:
 - I understand that programming is not only about writing code, but also about interacting with your team, the ability to design, set and solve problems, and grow professionally.
@@ -55,6 +56,7 @@ And I'm always looking for an opportunity to implement something without the hel
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Vuetify" **alt="Vuetify" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton" **alt="Python" width="40" height="40"/>
 </div>
 
 ## :fire: My Stats :
@@ -65,20 +67,3 @@ And I'm always looking for an opportunity to implement something without the hel
 ## :globe_with_meridians: Contacts:
 ### Telegram: @zeligmann
 ### Mail: dmitrium02@mail.ru
-
-
-
-<!--
-**zeprog/zeprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
